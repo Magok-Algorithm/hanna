@@ -1,7 +1,7 @@
 #12. 기둥과 보 설치
 
 
-# 설치가 가능한 경우를 확인하는 함수
+# 설치 or 삭제가 가능한 경우를 확인하는 함수
 def makingRule(answer):
   for x, y, a in answer:
     # 기둥
