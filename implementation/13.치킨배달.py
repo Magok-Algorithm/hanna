@@ -1,9 +1,5 @@
 #13. 치킨 배달
-
-import sys
 from itertools import combinations
-
-sys.stdin = open("input.txt", "r")
 
 # 데이터 입력받기
 n, m = map(int, input().split())
